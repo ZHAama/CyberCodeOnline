@@ -1,10 +1,10 @@
-## Secret Keys
-Leveling areas of the game are called 'Stations'. Each Station has 3 mini-areas, each with mobs within a certain level range and normal and challenge dungeons. Every dungeon has a boss room, with either lots of tough mobs which are higher level or a super boss which has a lot of hitpoints, potentially defeating players in one hit.
+## 密鑰
+遊戲的練級區域稱為“站點”。每個 Station 有 3 個迷你區域，每個區域都有一定等級範圍內的怪物以及普通和挑戰地下城。每個地下城都有一個boss房間，要么有很多高等級的強悍怪物，要么有一個有很多生命值的超級boss，有可能一擊擊敗玩家。
 
-After defeating all of the enemies in the boss room of a challenge dungeon, you will find a key fragment which is represented by a window icon in the room. Once you have all 3 fragments from one station, you can craft a Secret Key at the Terminal, which is found at the Shangri-La City Center (main HUB area of the game). Each Secret Key will grant you access to a new Station and a new list of higher-level enemies and dungeons to explore.  
+在挑戰地下城的boss房間擊敗所有敵人後，你會在房間內找到一個由窗口圖標表示的密鑰碎片。一旦你從一個站點獲得所有 3 個碎片，你就可以在位於香格里拉市中心（遊戲的主要 HUB 區域）的終端製作一把秘密鑰匙。每個秘密鑰匙都將授予你訪問一個新站點的權限，以及一個新的高級敵人和地下城列表供你探索。
 
-Additional key fragments can either be discarded (when interacting with the icon in the dungeon) or destroyed (from your inventory).
+額外的密鑰碎片可以被丟棄（當與地下城中的圖標交互時）或銷毀（從你的背包中）。
 
-Key fragments cannot be sent to other people nor be sold on the Player Market.
+密鑰片段不能發送給其他人，也不能在玩家市集上出售。
 
-This is the main progression mechanic of the game and dungeons will continue to increase in level and difficulty with you. However, if your player level is 10 levels below the dungeon's recommended level, you won't be able to join it. If you are too many levels above a mob, you also won't receive any loot rewards on defeating the enemy. If you are 12 levels above the recommended dungeon level, you won't be able to interact with anything, including doors, quest givers and loot.
+這是遊戲的主要進展機制，地下城會隨著你而不斷增加級別和難度。但是，如果你的玩家等級比地下城推薦等級低 10 級，你將無法加入。如果你比敵人高太多級別，你也不會在擊敗敵人時獲得任何戰利品獎勵。如果你比推薦的地下城等級高 12 級，你將無法與任何東西互動，包括門、任務委托人和戰利品。
